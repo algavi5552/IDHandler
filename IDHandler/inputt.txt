@@ -1,0 +1,5 @@
+INSERT dbo.ROZN_S_NOMK_SPEC_names(nomk_ls, otdel_id, rcfi_name, sait_name, vgr_kod) VALUES(219576, 1, CONVERT(varchar(101), 'Колготки компрессионные Медивен Элеганс (Mediven Elegance), 1 класс компрессии 18-22 мм рт ст, р. 3  ' COLLATE SQL_Latin1_General_CP1251_CI_AS), CONVERT(varchar(78), 'Колготки компрессионные Медивен Элеганс (Mediven Elegance), 1 класс компрессии' COLLATE SQL_Latin1_General_CP1251_CI_AS), 20191010103632)
+
+
+
+

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\IDHandler\bin\Debug\IDHandler.exe.config
+C:\Users\User\source\repos\IDHandler\bin\Debug\IDHandler.exe
+C:\Users\User\source\repos\IDHandler\bin\Debug\IDHandler.pdb
+C:\Users\User\source\repos\IDHandler\obj\Debug\IDHandler.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IDHandler\obj\Debug\IDHandler.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IDHandler\obj\Debug\IDHandler.exe
+C:\Users\User\source\repos\IDHandler\obj\Debug\IDHandler.pdb
